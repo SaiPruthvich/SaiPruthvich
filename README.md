@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaiPruthvich
 - 👀 I’m interested in Cloud Systems
 - 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on Docker 
+- 💞️ I’m looking to collaborate on Gmail 
 - 📫 How to reach me saipruthvi159@gmail.com
 
 <!---
